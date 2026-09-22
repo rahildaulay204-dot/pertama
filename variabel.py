@@ -1,5 +1,5 @@
 nama = "noval"
-hobi = "makan"
+hobi = 'makan'
 umur = 18
 laki = True
 

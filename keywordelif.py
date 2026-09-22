@@ -1,0 +1,1 @@
+str_input = input('enter your grade: ')

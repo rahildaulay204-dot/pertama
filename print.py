@@ -1,2 +1,2 @@
-print("message: %s %s %s" % ("helo", "python", "learner"))
+print("message: %s %s %s" % ("hello", "python", "learner"))
 print("message:", "hello", "python", "learner")
